@@ -26,7 +26,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - 🐦 Twitter: [@DipakAhirav](https://x.com/DipakAhirav)
 - 💼 LinkedIn: [Dipak_Ahirav](https://www.linkedin.com/in/dipak-ahirav-606bba128/)
 - 📝 Medium: [DipakAhirav](https://medium.com/@dipaksahirav)
-- 🌐 Website: [Dipak Ahirav](https://my-portfolio-beta-orpin-29.vercel.app/)
+- 🌐 Website: [Dipak Ahirav](https://dipakahirav.com/)
 - 💻 GitHub: [Dipak-Ahirav](https://github.com/Dipak-Ahirav)
 - 🎥 YouTube: [@DevDiveWithDipak](https://www.youtube.com/@DevDivewithDipak)
 - 📘 Facebook: [DevDiveWithDipak](https://www.facebook.com/people/dipak_ahirav/100070722134919/)
