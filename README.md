@@ -2,6 +2,8 @@
 
 Welcome to my vintage-inspired portfolio website! This project showcases a blend of classic design elements with modern web technologies using only HTML, CSS, and JavaScript.
 
+![image](https://github.com/user-attachments/assets/5b9fd663-7aef-442a-ae56-7b89b95a8253)
+
 ## 🌟 Features
 - **Vintage Design**: A unique retro aesthetic with modern functionality.
 - **Projects Showcase**: Highlighting key projects in a clean grid layout.
