@@ -14,6 +14,11 @@ Welcome to my vintage-inspired portfolio website! This project showcases a blend
 - **JavaScript** (for smooth navigation and interaction)  
 
 ## 🚀 How to View
-You can view the live version on [GitHub Pages](https://<your-username>.github.io/vintage-portfolio-site/) once the repository is set up.
+You can view the live version on [GitHub Pages](https://github.com/Dipak-Ahirav/vintage-portfolio-site/) once the repository is set up.
 
 ## 📂 Structure
+
+## 📬 Contact
+Feel free to reach out if you have any feedback or just want to connect!  
+**Name**: Dipak Ahirav  
+**Role**: Vintage Web Designer & Developer
